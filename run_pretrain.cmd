@@ -1,0 +1,1 @@
+python ./pretrain.py ./dataset/msr_training.utf8 ./cws.info ./cws.data
